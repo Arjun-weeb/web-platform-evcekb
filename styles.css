@@ -1,0 +1,12 @@
+body {
+  background: rgb(40, 34, 46);
+}
+.container{
+  width: 100vw;
+  height: 100vh;
+  display: flex
+  ;
+  justify-content: center;
+  align-items: center;
+
+}
